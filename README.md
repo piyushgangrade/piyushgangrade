@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   
 <h1>Connect with me :e-mail: </h1>  
 
-<a href="mailto:piysuhgangrade03@gmail.com" target="_blank"><img align="center" src="[https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png)?raw=true" alt="" height="30" />piyushgangrade03@gmail.com</a><br> 
-<a href="https://www.linkedin.com/in/piyushgangrade/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="" height="30" />/in/piyushgangrade</a><br> 
-<a href="https://github.com/piyushgangrade" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="" height="30" /><- You are already seeing here!</a>
+<a href="mailto:piysuhgangrade03@gmail.com" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="" height="30" /> piyushgangrade03@gmail.com</a><br> 
+<a href="https://www.linkedin.com/in/piyushgangrade/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="" height="30" /> /in/piyushgangrade</a><br> 
+<a href="https://github.com/piyushgangrade" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="" height="30" /> <- Congrats! You are already seeing here :)</a>
