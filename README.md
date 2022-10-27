@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h1>GitHub Stats :chart: </h1>  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=piyushgangrade&show_icons=true&theme=buefy" width="500"> 
+
+<p align="center">
+<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=piyushgangrade&theme=buefy"/>
+
+<p align="center">
+<img alt="Piyush's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushgangrade&layout=compact&langs_count=8&theme=buefy" width=500/>
