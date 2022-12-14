@@ -15,9 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 XKCD Meme
+### 😂 XKCD
 <img src="https://imgs.xkcd.com/comics/machine_learning.png" width="512px"/>
 
+### 😂 Another XKCD (because one is not enough)
 <img src="https://imgs.xkcd.com/comics/linear_regression.png" width="512px"/>
 
 ---
@@ -26,8 +27,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 ## 🌐 Socials:Connect with me: 
-<a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img alt="Gmail" height="30" width="30" src="assets/Gmail.png"> </a>
+<a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img alt="Gmail" height="48" width="48" src="assets/Gmail.png"> </a>
 <br>
-<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" height="30" width="30" src="assets/github.svg"> </a> <- Congrats! You are already seeing here :)
-
-
+<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" height="48" width="48" src="assets/github.svg"> </a> <- Congrats! You are already seeing here :)
