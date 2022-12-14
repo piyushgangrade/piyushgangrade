@@ -27,6 +27,6 @@
   
 <h1>Connect with me :e-mail: </h1>  
 
-<a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="" height="30" /> piyushgangrade03@gmail.com</a><br> 
-<a href="https://www.linkedin.com/in/piyushgangrade/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="" height="30" /> /in/piyushgangrade</a><br> 
-<a href="https://github.com/piyushgangrade" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="" height="30" /> <- Congrats! You are already seeing here :)</a>
+<a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img align="center" src="assets/Gmail.png" alt="Piyush Gmail" height="30" > piyushgangrade03@gmail.com</a><br>
+
+<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg" alt="Piyush Github" height="30" > <- Congrats! You are already seeing here :)</a>
