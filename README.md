@@ -16,17 +16,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 XKCD Meme
-<img src="[https://random-memer.herokuapp.com/](https://imgs.xkcd.com/comics/machine_learning.png)" width="512px"/>
+<img src="https://imgs.xkcd.com/comics/machine_learning.png" width="512px"/>
 
-<img src="[https://random-memer.herokuapp.com/]([https://imgs.xkcd.com/comics/machine_learning.png](https://imgs.xkcd.com/comics/linear_regression.png))" width="512px"/>
+<img src="https://imgs.xkcd.com/comics/linear_regression.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=piyushgangrade&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-<h1>Connect with me :e-mail: </h1>  
+## 🌐 Socials:Connect with me: 
+[![Gmail](assets/Gmail.png)](mailto:piyushgangrade03@gmail.com)
 
-<a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img align="center" src="assets/Gmail.png" alt="Piyush Gmail" height="30" > piyushgangrade03@gmail.com</a><br>
+[![GitHub](assets/Gmail.png)](https://github.com/piyushgangrade) <- Congrats! You are already seeing here :)
 
-<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg" alt="Piyush Github" height="30" > <- Congrats! You are already seeing here :)</a>
+<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" height="30" width="30" src="assets/github.svg"> </a>
