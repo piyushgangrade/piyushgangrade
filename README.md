@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/piyushgangrade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/rememberpiyush) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:piyushgangrade03@gmail.com) [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/piyushgangrade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/piyushgangrade) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/rememberpiyush) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:piyushgangrade03@gmail.com) [![Github](https://img.shields.io/badge/-Github-181717.svg?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/piyushgangrade)
 
 
 # 💻 Tech Stack:
