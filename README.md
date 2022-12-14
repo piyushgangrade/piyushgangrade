@@ -28,4 +28,4 @@
   
 ## 🌐 Connect with me: 
 <a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img alt="Gmail" height="48" width="48" src="assets/Gmail.png"> </a> <- Send me an email!
-<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" width="30" src="assets/Github_black.png" style="float:left;"> </a> <- Congrats! You are already here :)
+<br><a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" width="30" src="assets/Github_black.png" style="float:left;"> </a> <- Congrats! You are already here :)
