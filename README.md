@@ -26,7 +26,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-## 🌐 Socials:Connect with me: 
+## 🌐 Connect with me: 
 <a href="mailto:piyushgangrade03@gmail.com" target="_blank"><img alt="Gmail" height="48" width="48" src="assets/Gmail.png"> </a>
 <br>
-<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" height="48" width="48" src="assets/github.svg"> </a> <- Congrats! You are already seeing here :)
+<a href="https://github.com/piyushgangrade" target="_blank"><img alt="GitHub" height="48" width="48" src="assets/Github_black.png"> </a> <- Congrats! You are already seeing here :)
