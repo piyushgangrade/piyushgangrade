@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 I’m a graduate Data Science and Analytics student at Georgia State University<br>🌱 I’m currently learning and working as a Graduate Research Assistant<br>
-<!-- 💬 Ask me about movies/tv-series and work out.<br> -->
-⚡ I enjoy xkcd posts. [Scroll to the last to find humor]
+🔭 I’m a graduate Data Science and Analytics student at Georgia State University<br>🌱 I’m currently learning and working as a Graduate Research Assistant<br><!--   💬 Ask me about movies/tv-series and work out.<br> -->⚡ I enjoy xkcd posts. [Scroll to the last to find humor]
 
 
 ## 🌐 Socials:
